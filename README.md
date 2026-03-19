@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=3CB9FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sahasra+Nawodhi+👋;Software+Engineering+Undergraduate;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=3CB9FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sahasra+Nawodhi;Software+Engineering+Undergraduate;Welcome+to+my+GitHub+Profile!" />
   <p>React • React Native (Learning) • REST APIs • UI/UX • Product-Oriented Development</p>
 </div>
 
 <p align="center">
-  <a href="https://sahasra-nawodhi.web.app/">🌐 Portfolio</a> •
+  <a href="https://sahasra-nawodhi.web.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/sahasralive/">LinkedIn</a> •
   <a href="mailto:sahasralive21@gmail.com">Email</a>
 </p>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m an ICT undergraduate passionate about building **scalable frontend and cross-platform mobile applications**.  
 
@@ -25,7 +25,7 @@ Currently expanding into **React Native** to build high-performance cross-platfo
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,30 +47,28 @@ Currently expanding into **React Native** to build high-performance cross-platfo
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🛒 E-Buy – Full Stack E-Commerce Platform
+### E-Buy – Full Stack E-Commerce Platform
 - Built React frontend with RESTful backend (Node.js + Express)
 - Implemented authentication & product CRUD operations
 - Integrated MongoDB database schema
 - Structured component-based UI
 
-### 🚲 IoT-Based Shared Bicycle System
+### IoT-Based Shared Bicycle System
 - Designed responsive dashboard for real-time data visualization
 - Implemented MVC architecture for maintainability
 - Integrated backend services for structured API communication
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 - Built with modern frontend stack
 - Deployed on Firebase
 - Responsive, component-based design
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-- 📧 sahasralive21@gmail.com  
-- 🌐 https://sahasra-nawodhi.web.app/  
-- 🔗 https://www.linkedin.com/in/sahasralive/
+- Email: sahasralive21@gmail.com  
+- Web:  https://sahasra-nawodhi.web.app/  
+- Linkedin: https://www.linkedin.com/in/sahasralive/
 
 ---
-
-⭐ Always learning. Always building.
